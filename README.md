@@ -1,6 +1,6 @@
 ### My Name is Kevin O'Haugherty
 #### Front-End Deveopment Student
-![I am here to learn]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://blackbeardcoding.com/images/GitHubBanner01.jpg))
+Fun Here (https://blackbeardcoding.com/images/GitHubBanner01.jpg)
 
 Looking for junior developer roles in Tampa Bay
 
