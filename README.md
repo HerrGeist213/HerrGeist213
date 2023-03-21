@@ -1,5 +1,5 @@
 ### My Name is Kevin O'Haugherty
-#### Front-End Deveopment Student
+#### Front-End Development Student
 ![I am experimenting](https://blackbeardcoding.com/images/GitHubBanner01.jpg)
 
 
