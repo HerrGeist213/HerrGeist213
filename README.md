@@ -1,4 +1,4 @@
-My name is Kevin O'Haugherty
+#My name is Kevin O'Haugherty
 #### Front-End Development Student
 ![Front-End Development Student](https://blackbeardcoding.com/images/GitHubBanner01.jpg)
 
