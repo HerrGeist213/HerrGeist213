@@ -2,6 +2,7 @@
 #### Front-End Deveopment Student
 ![I am experimenting](https://blackbeardcoding.com/images/GitHubBanner01.jpg)
 
+
 Looking for junior developer roles in Tampa Bay
 
 Skills: VUE JS / REACT / JS / HTML / CSS
