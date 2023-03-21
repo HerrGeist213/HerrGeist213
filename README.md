@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=herrgeist213&label=Profile%20views&color=0e75b6&style=flat" alt="herrgeist213" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.blackbeardcoding.com](https://www.blackbeardcoding.com)
+- 👨‍💻 All of my projects are available at [https://www.blackbeardcoding.com](www.blackbeardcoding.com)
 
 - 📫 How to reach me **kevinohaugherty@gmail.com**
 
