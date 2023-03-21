@@ -1,5 +1,6 @@
 <h1 align="center">My name is Kevin O'Haugherty</h1>
 <h3 align="center">I'm a front-end development student in Tampa Bay</h3>
+<img src="https://blackbeardcoding.com/images/GitHubBanner01.jpg" alt="banner">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=herrgeist213&label=Profile%20views&color=0e75b6&style=flat" alt="herrgeist213" /> </p>
 
