@@ -4,12 +4,13 @@
 
 
 Looking for junior developer roles in Tampa Bay
+kevinohaugherty@gmail.com
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: HTML / CSS / JS
 
-- 🔭 I’m currently working on completing a bootcamp 
+- 🔭 I’m working on completing a bootcamp 
 - 🌱 I’m currently learning Advanced CSS 
-- 📫 How to reach me: kevinohaugherty@gmail.com 
+- 📫 How to reach me: 
 - 😄 Pronouns: He / Him 
 - ⚡ Fun fact: I don't like fun 
 
